@@ -11,7 +11,7 @@ class PostController extends Controller
         
     }
 
-    public function show1()
+    public function show()
     {
         
     }
