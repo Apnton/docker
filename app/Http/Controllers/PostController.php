@@ -16,8 +16,13 @@ class PostController extends Controller
 
     }
 
-    public function store1()
+    public function create()
     {
-        
+
+    }
+
+    public function store()
+    {
+
     }
 }
