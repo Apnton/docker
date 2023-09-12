@@ -6,9 +6,14 @@ use Illuminate\Http\Request;
 
 class PostController extends Controller
 {
-    public function show1()
+    public function show()
     {
 
+    }
+
+    public function edit()
+    {
+        
     }
 
 }
